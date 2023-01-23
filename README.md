@@ -10,10 +10,10 @@
 
  $ git clone https://github.com/OWIXD/4MBF
 
-#Run
+ $ cd 4MBF
 
-$ cd run
+ $ git pull
 
-$ git pull
+ $ python run.py
 
-$ python run.py
+
