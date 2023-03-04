@@ -8,7 +8,7 @@
 
  $ pip install rich
 
- $ git clone https://github.com/OWIXD/4MBF
+ $ git clone https://github.com/CLAOUPY4/4MBF
 
  $ cd 4MBF
 
