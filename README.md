@@ -8,12 +8,12 @@
 
  $ pip install rich
 
- $ git clone https://github.com/OWIXD/4MBF
+ $ git clone https://github.com/BALA-BALA/4MBF
 
  $ cd 4MBF
 
  $ git pull
 
- $ python run.py
+ $ python mam.py
 
 
