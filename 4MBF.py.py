@@ -164,7 +164,7 @@ def banner():
 •   /__  __/  /  / / _  /_/ /_  __/             •
 •     /_/  /_/  /_/  /_____/ /_/VERSION 11.0.5   •
 •                                               •
-•   GITHUB : HTTPS://GITHUB.COM/BALA-BALA/4MBF   •'''
+•   GITHUB : HTTPS://GITHUB.COM/CLAOUPY4/4MBF   •'''
 	oi = nel(tekz(ban,justify='center',style='bold'), style='cyan')
 	cetak(nel(oi, title='[bold cyan] • DEVELOVER INFORMATION • [/bold cyan]'))
 # VALIDASI TOKEN
