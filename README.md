@@ -1,19 +1,9 @@
-#Install
+# 4MBF
+4ZKALI MAKAN MANGGA SAMBILL MINUM FROLIDINA 
+git clone https://github.com/CLAOUPY4/4MBF
+ls
 
- $ pkg update && pkg upgrade
+ls
 
- $ pkg install python git
-
- $ pip install requests bs4 futures
-
- $ pip install rich
-
- $ git clone https://github.com/OWIXD/4MBF
-
- $ cd 4MBF
-
- $ git pull
-
- $ python run.py
-
-
+cd 4MBF
+python 4MBF.py
